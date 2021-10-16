@@ -3,7 +3,7 @@
 
 - 🔭 Hoje estou em uma transição logística para área de desenvolvimento.
 - 🌱 Estudando C# em Análise de desenvolvimento de Sistemas (segundo semestre - UNIVALI)
-- 👯 Contate-me no email: toliveira491@gmail.com 
+- Contate-me no email: toliveira491@gmail.com 
   
 <div> 
 
